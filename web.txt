@@ -1,1 +1,7 @@
 Programación web
+
+git config --global user.name "Anthony Arenas-Zavalaga"
+git config --global user.email "u201410574@upc.edu.pe"
+
+comandos: 
+git commit -m "first commit"
